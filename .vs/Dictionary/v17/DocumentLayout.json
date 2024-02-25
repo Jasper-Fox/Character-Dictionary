@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Dictionary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|d:\\c#\\dictionary\\dictionary\\enemies\\enemies list\\imposter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\enemies\\enemies list\\imposter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|d:\\c#\\dictionary\\dictionary\\enemies\\enemies list\\minion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\enemies\\enemies list\\minion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|d:\\c#\\dictionary\\dictionary\\enemies\\enemies list\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\enemies\\enemies list\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|d:\\c#\\dictionary\\dictionary\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\enemies\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|d:\\c#\\dictionary\\dictionary\\characters\\characters list\\arnoldschwarzenegger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\characters\\characters list\\arnoldschwarzenegger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|d:\\c#\\dictionary\\dictionary\\characters\\characters list\\ryangosling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\characters\\characters list\\ryangosling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|d:\\c#\\dictionary\\dictionary\\characters\\characters list\\vindiesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\characters\\characters list\\vindiesel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|d:\\c#\\dictionary\\dictionary\\characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\characters\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|d:\\c#\\dictionary\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D781AD-1F3A-43FB-A616-D7A8B0F7FF46}|Dictionary\\Dictionary.csproj|solutionrelative:dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Imposter.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary\\Dictionary\\Enemies\\Enemies List\\Imposter.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Enemies\\Enemies List\\Imposter.cs",
+              "ToolTip": "D:\\C#\\Dictionary\\Dictionary\\Enemies\\Enemies List\\Imposter.cs",
+              "RelativeToolTip": "Dictionary\\Enemies\\Enemies List\\Imposter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:16:56.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Minion.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary\\Dictionary\\Enemies\\Enemies List\\Minion.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Enemies\\Enemies List\\Minion.cs",
+              "ToolTip": "D:\\C#\\Dictionary\\Dictionary\\Enemies\\Enemies List\\Minion.cs",
+              "RelativeToolTip": "Dictionary\\Enemies\\Enemies List\\Minion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:15:27.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary\\Dictionary\\Enemies\\Enemies List\\Boss.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Enemies\\Enemies List\\Boss.cs",
+              "ToolTip": "D:\\C#\\Dictionary\\Dictionary\\Enemies\\Enemies List\\Boss.cs",
+              "RelativeToolTip": "Dictionary\\Enemies\\Enemies List\\Boss.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:14:41.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary\\Dictionary\\Enemies\\Enemy.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Enemies\\Enemy.cs",
+              "ToolTip": "D:\\C#\\Dictionary\\Dictionary\\Enemies\\Enemy.cs",
+              "RelativeToolTip": "Dictionary\\Enemies\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T16:11:45.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArnoldSchwarzenegger.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary\\Dictionary\\Characters\\Characters List\\ArnoldSchwarzenegger.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Characters\\Characters List\\ArnoldSchwarzenegger.cs",
+              "ToolTip": "D:\\C#\\Dictionary\\Dictionary\\Characters\\Characters List\\ArnoldSchwarzenegger.cs",
+              "RelativeToolTip": "Dictionary\\Characters\\Characters List\\ArnoldSchwarzenegger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:12:08.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RyanGosling.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary\\Dictionary\\Characters\\Characters List\\RyanGosling.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Characters\\Characters List\\RyanGosling.cs",
+              "ToolTip": "D:\\C#\\Dictionary\\Dictionary\\Characters\\Characters List\\RyanGosling.cs",
+              "RelativeToolTip": "Dictionary\\Characters\\Characters List\\RyanGosling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:11:57.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VinDiesel.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary\\Dictionary\\Characters\\Characters List\\VinDiesel.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Characters\\Characters List\\VinDiesel.cs",
+              "ToolTip": "D:\\C#\\Dictionary\\Dictionary\\Characters\\Characters List\\VinDiesel.cs",
+              "RelativeToolTip": "Dictionary\\Characters\\Characters List\\VinDiesel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:11:57.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary\\Dictionary\\Characters\\Character.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Characters\\Character.cs",
+              "ToolTip": "D:\\C#\\Dictionary\\Dictionary\\Characters\\Character.cs",
+              "RelativeToolTip": "Dictionary\\Characters\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T15:11:54.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Dictionary\\Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary\\Program.cs",
+              "ToolTip": "D:\\C#\\Dictionary\\Dictionary\\Program.cs",
+              "RelativeToolTip": "Dictionary\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:32:59.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
